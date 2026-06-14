@@ -16,7 +16,7 @@ Everything else in the original recipe still comes from `meta-edgeai` unchanged.
 
 ## Build flow
 
-Start with the normal TI Scarthgap-based Yocto setup described here:
+Start with the normal TI Scarthgap-based Yocto build environment as described here:
 
 - https://github.com/TexasInstruments/ti-docker-images?tab=readme-ov-file#2-start-yocto-scarthgap-based-build
 
